@@ -1,9 +1,9 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
+title: 白小纯
+description: 白小纯的个人网站 会记录有意义的内容
 show_downloads: true
 
 baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://lorepirri.github.io" # change this to the base hostname & protocol for your site
+url: "https://yuxingchun.github.io/" # change this to the base hostname & protocol for your site
 
 
 google_analytics:
@@ -18,8 +18,7 @@ theme: # leave it empty
 # social
 author: lorepirri
 image: /thumbnail-jumbo.png
-twitter:
-  username: lorepirri
+
 
 plugins:
   - jekyll-target-blank
@@ -28,3 +27,6 @@ target-blank:
     rel: nofollow
 
 header_page_refs: ['now', 'about', 'contact']
+
+baidu:
+    id: db7f94e7e575eea6d3a345b8053ee19a
